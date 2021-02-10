@@ -1,0 +1,110 @@
+[
+    {
+        "id": 0,
+        "propertyTitle": "Waterloo Road, London, SE1",
+        "price": "875000",
+        "images": [
+            "assets/img/p1/1.jpg",
+            "assets/img/p1/2.jpg",
+            "assets/img/p1/3.jpg",
+            "assets/img/p1/4.jpg",
+            "assets/img/p1/5.jpg"
+        ],
+        "propertyType": "Flat",
+        "beds": "2",
+        "baths": "2",
+        "sqft": "1203",
+        "tenure": "leasehold",
+        "description": "A stunning two-bedroom warehouse apartment with office, pantry and utility room. Offering over 1,200 square feet of living space, with a double height reception and dining room, fully equipped modern kitchen, office space, pantry and utility room with washer, drier and Belfast sink. There is a guest WC downstairs which could be converted to a shower room."
+    },
+    {
+        "id": 1,
+        "propertyTitle": "Eight Casson Square, Southbank Place, Waterloo",
+        "price": "696600",
+        "images": [
+            "assets/img/p2/1.jpg",
+            "assets/img/p2/2.jpg",
+            "assets/img/p2/3.jpg",
+            "assets/img/p2/4.jpg",
+            "assets/img/p2/5.jpg"
+        ],
+        "propertyType": "Apartment",
+        "beds": "1",
+        "baths": "1",
+        "sqft": "495",
+        "tenure": "leasehold",
+        "description": "Apartment interiors blend traditional and modern approaches with combinations of high quality natural materials creating a harmonious and durable feel. A bespoke designed kitchen with carefully selected finishes and high quality integrated Miele appliances is a highlight, but the apartment also benefits from having luxurious bathrooms finished with polished stone throughout and high specification fittings with Dornbracht brassware."
+    },
+    {
+        "id": 2,
+        "propertyTitle": "Falmouth Road, London",
+        "price": "375000",
+        "images": [
+            "assets/img/p3/1.jpg",
+            "assets/img/p3/2.jpg",
+            "assets/img/p3/3.jpg",
+            "assets/img/p3/4.jpg",
+            "assets/img/p3/5.jpg"
+        ],
+        "propertyType": "Flat",
+        "beds": "2",
+        "baths": "1",
+        "sqft": "528",
+        "tenure": "leasehold",
+        "description": "Positioned on the second floor of this popular low rise purpose built block is this spacious apartment boasting two genuine double bedrooms of similar proportions."
+    },
+    {
+        "id": 3,
+        "propertyTitle": "Setchell Way, Bermondsey",
+        "price": "600000",
+        "images": [
+            "assets/img/p4/1.jpg",
+            "assets/img/p4/2.jpg",
+            "assets/img/p4/3.jpg",
+            "assets/img/p4/4.jpg",
+            "assets/img/p4/5.jpg"
+        ],
+        "propertyType": "House",
+        "beds": "3",
+        "baths": "2",
+        "sqft": "1311",
+        "tenure": "freehold",
+        "description": "A large three storey house with a generous kitchen-diner, a separate living room, patio garden, three double bedrooms and two bathrooms, ample storage throughout, plus a private garage. "
+    },
+    {
+        "id": 4,
+        "propertyTitle": "8 Casson Square, South Bank Place, Waterloo, SE1",
+        "price": "1480000",
+        "images": [
+            "assets/img/p5/1.jpg",
+            "assets/img/p5/2.jpg",
+            "assets/img/p5/3.jpg",
+            "assets/img/p5/4.jpg",
+            "assets/img/p5/5.jpg"
+        ],
+        "propertyType": "Apartment",
+        "beds": "2",
+        "baths": "2",
+        "sqft": "882",
+        "tenure": "leasehold",
+        "description": "This luxury two double bedroom, two bathroom apartment offers sleek fitted kitchen, modern bathroom suites and stylish living space. Floor to ceiling windows with South West facing aspect. This landmark development provides the perfect setting for London's most breath taking and elegant new residences, adjacent to Westminster and next to the London Eye. The development includes a new vibrant public square, lined with retail, bars, restaurants and a new underground entrance to Waterloo station."
+    },
+    {
+        "id": 5,
+        "propertyTitle": "160 Westminster Bridge Road, Waterloo, SE1",
+        "price": "525000",
+        "images": [
+            "assets/img/p6/1.jpg",
+            "assets/img/p6/2.jpg",
+            "assets/img/p6/3.jpg",
+            "assets/img/p6/4.jpg",
+            "assets/img/p6/5.jpg"
+        ],
+        "propertyType": "Apartment",
+        "beds": "1",
+        "baths": "1",
+        "sqft": "460",
+        "tenure": "leasehold",
+        "description": "A superb one bedroom apartment situated on the top floor of this modern development boasting stylish accommodation, including a delightful reception room with doors that lead out to onto a generously-sized private balcony, a modern open-plan kitchen and spacious double bedroom with excellent storage."
+    }
+]
