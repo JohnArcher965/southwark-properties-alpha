@@ -4,11 +4,11 @@
         "propertyTitle": "Waterloo Road, London, SE1",
         "price": "875000",
         "images": [
-            "assets/img/p1/1.jpg",
-            "assets/img/p1/2.jpg",
-            "assets/img/p1/3.jpg",
-            "assets/img/p1/4.jpg",
-            "assets/img/p1/5.jpg"
+            "assets/img/p0/1.jpg",
+            "assets/img/p0/2.jpg",
+            "assets/img/p0/3.jpg",
+            "assets/img/p0/4.jpg",
+            "assets/img/p0/5.jpg"
         ],
         "propertyType": "Flat",
         "beds": "2",
@@ -22,11 +22,11 @@
         "propertyTitle": "Eight Casson Square, Southbank Place, Waterloo",
         "price": "696600",
         "images": [
-            "assets/img/p2/1.jpg",
-            "assets/img/p2/2.jpg",
-            "assets/img/p2/3.jpg",
-            "assets/img/p2/4.jpg",
-            "assets/img/p2/5.jpg"
+            "assets/img/p1/1.jpg",
+            "assets/img/p1/2.jpg",
+            "assets/img/p1/3.jpg",
+            "assets/img/p1/4.jpg",
+            "assets/img/p1/5.jpg"
         ],
         "propertyType": "Apartment",
         "beds": "1",
@@ -40,11 +40,11 @@
         "propertyTitle": "Falmouth Road, London",
         "price": "375000",
         "images": [
-            "assets/img/p3/1.jpg",
-            "assets/img/p3/2.jpg",
-            "assets/img/p3/3.jpg",
-            "assets/img/p3/4.jpg",
-            "assets/img/p3/5.jpg"
+            "assets/img/p2/1.jpg",
+            "assets/img/p2/2.jpg",
+            "assets/img/p2/3.jpg",
+            "assets/img/p2/4.jpg",
+            "assets/img/p2/5.jpg"
         ],
         "propertyType": "Flat",
         "beds": "2",
@@ -58,11 +58,11 @@
         "propertyTitle": "Setchell Way, Bermondsey",
         "price": "600000",
         "images": [
-            "assets/img/p4/1.jpg",
-            "assets/img/p4/2.jpg",
-            "assets/img/p4/3.jpg",
-            "assets/img/p4/4.jpg",
-            "assets/img/p4/5.jpg"
+            "assets/img/p3/1.jpg",
+            "assets/img/p3/2.jpg",
+            "assets/img/p3/3.jpg",
+            "assets/img/p3/4.jpg",
+            "assets/img/p3/5.jpg"
         ],
         "propertyType": "House",
         "beds": "3",
@@ -76,11 +76,11 @@
         "propertyTitle": "8 Casson Square, South Bank Place, Waterloo, SE1",
         "price": "1480000",
         "images": [
-            "assets/img/p5/1.jpg",
-            "assets/img/p5/2.jpg",
-            "assets/img/p5/3.jpg",
-            "assets/img/p5/4.jpg",
-            "assets/img/p5/5.jpg"
+            "assets/img/p4/1.jpg",
+            "assets/img/p4/2.jpg",
+            "assets/img/p4/3.jpg",
+            "assets/img/p4/4.jpg",
+            "assets/img/p4/5.jpg"
         ],
         "propertyType": "Apartment",
         "beds": "2",
@@ -94,11 +94,11 @@
         "propertyTitle": "160 Westminster Bridge Road, Waterloo, SE1",
         "price": "525000",
         "images": [
-            "assets/img/p6/1.jpg",
-            "assets/img/p6/2.jpg",
-            "assets/img/p6/3.jpg",
-            "assets/img/p6/4.jpg",
-            "assets/img/p6/5.jpg"
+            "assets/img/p5/1.jpg",
+            "assets/img/p5/2.jpg",
+            "assets/img/p5/3.jpg",
+            "assets/img/p5/4.jpg",
+            "assets/img/p5/5.jpg"
         ],
         "propertyType": "Apartment",
         "beds": "1",
